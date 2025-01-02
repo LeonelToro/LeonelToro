@@ -1,4 +1,5 @@
-I’m Leonel Toro, a professional who has transitioned from political science to the world of data with expertise in data analysis, SQL, Python, and data visualization with Power BI.
-I aim to use my skills to solve complex problems through data science and AI.
-My goal is to contribute to improving processes in both the public and private sectors by leveraging deep data analysis and building predictive models. 
-I am eager to continue learning and growing as a Data Scientist. Let’s connect!
+Hi! I'm Leonel Toro, a professional who has transitioned from political science to the world of data science. With a solid foundation in data analysis, SQL, Python, and data visualization with Power BI, I am passionate about using data-driven insights to solve complex problems.
+
+My goal is to leverage my skills in both the public and private sectors to improve processes, optimize decision-making, and create predictive models that drive change. As I continue to learn and grow in the field of data science, I'm excited about the opportunities that lie ahead.
+
+Let’s connect and collaborate!
