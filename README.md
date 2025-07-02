@@ -1,35 +1,33 @@
-# 👋 Hi! I'm Leonel Toro  
+# 👋 **Hola, me llamo Leonel Toro y soy un profesional del análisis de datos con una licenciatura en Ciencia Política.**
 
-### 🚀 About Me  
-I'm a professional who has transitioned from **political science** to the world of **data science**.  
-With a solid foundation in **data analysis, SQL, Python, and data visualization with Power BI**,  
-I am passionate about using data-driven insights to solve **complex problems**.  
+### Desarrollo soluciones integrales que incluyen **recolección, transformación y extracción de datos (ETL y web scraping)**, **análisis avanzado**, **creación de reportes**, **automatización de procesos** y **modelos de machine learning** para apoyar la toma de decisiones.
 
-### 🎯 My Goal  
-I aim to leverage my skills in both the **public and private sectors** to:  
-- 📊 Improve **processes**  
-- 🧠 Optimize **decision-making**  
-- 🔍 Create **predictive models** that drive change  
+## 🛠️ **Herramientas y tecnologías:**  
+- **SQL** (consultas complejas, modelado relacional, SQL Server)  
+- **Power BI** (modelado DAX, Power Query, dashboards interactivos)  
+- **Python** (pandas, matplotlib, seaborn, SQLAlchemy, scikit-learn, requests, BeautifulSoup, Selenium)  
+- **Excel avanzado** (Power Pivot, macros, automatización)
 
-As I continue to **learn and grow** in the field of data science, I'm excited about the opportunities ahead.  
+### 📊 **En mis proyectos combino análisis exploratorio, visualizaciones, modelos predictivos, automatizaciones y reportes de valor para equipos técnicos y no técnicos.**
 
-### 🤝 Let's Connect!  
----
+### 🌐 **Mirá mi trabajo en mi portfolio web:** [https://leoneltoro.github.io](https://leoneltoro.github.io)  
 
-# 👋 ¡Hola! Soy Leonel Toro  
+📫 **Contacto:** leonel.toro93@gmail.com  
+📍 **Argentina – disponible para trabajo remoto**
 
-### 🚀 Sobre mí  
-Soy un profesional que ha hecho la transición de la **ciencia política** al mundo de la **ciencia de datos**.  
-Con una sólida base en **análisis de datos, SQL, Python y visualización de datos con Power BI**,  
-me apasiona utilizar conocimientos basados en datos para resolver **problemas complejos**.  
+# 👋 Hi, my name is Leonel Toro and I am a data analysis professional with a degree in Political Science.
 
-### 🎯 Mi Objetivo  
-Quiero aprovechar mis habilidades tanto en el **sector público como en el privado** para:  
-- 📊 **Mejorar procesos**  
-- 🧠 **Optimizar la toma de decisiones**  
-- 🔍 **Crear modelos predictivos** que impulsen el cambio  
+### I develop end-to-end solutions that include data collection, transformation, and extraction (ETL and web scraping), advanced analysis, report creation, process automation, and machine learning models to support decision-making.
 
-A medida que continúo **aprendiendo y creciendo** en el campo de la ciencia de datos,  
-me entusiasman las oportunidades que tengo por delante.  
+## 🛠️ Tools and technologies:  
+- SQL (complex queries, relational modeling, SQL Server)  
+- Power BI (DAX modeling, Power Query, interactive dashboards)  
+- Python (pandas, matplotlib, seaborn, SQLAlchemy, scikit-learn, requests, BeautifulSoup, Selenium)  
+- Advanced Excel (Power Pivot, macros, automation)
 
-### 🤝 ¡Conectemos y colaboremos!
+### 📊 In my projects, I combine exploratory analysis, visualizations, predictive models, automations, and value-driven reports for both technical and non-technical teams.
+
+### 🌐 Check out my work on my portfolio website: [https://leoneltoro.github.io](https://leoneltoro.github.io)  
+
+📫 Contact: leonel.toro93@gmail.com  
+📍 Argentina – available for remote work
