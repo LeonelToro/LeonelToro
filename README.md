@@ -15,6 +15,7 @@
 📫 **Contacto:** leonel.toro93@gmail.com  
 📍 **Argentina – disponible para trabajo remoto**
 
+#
 # 👋 Hi, my name is Leonel Toro and I am a data analysis professional with a degree in Political Science.
 
 ### I develop end-to-end solutions that include data collection, transformation, and extraction (ETL and web scraping), advanced analysis, report creation, process automation, and machine learning models to support decision-making.
